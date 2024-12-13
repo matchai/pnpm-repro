@@ -1,0 +1,6 @@
+{
+  "name": "admin",
+  "dependencies": {
+    "medusa-react": "9.0.15"
+  }
+}

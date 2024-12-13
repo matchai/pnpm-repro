@@ -1,0 +1,6 @@
+{
+  "name": "storefront",
+  "devDependencies": {
+    "@medusajs/medusa": "1.20.2"
+  }
+}

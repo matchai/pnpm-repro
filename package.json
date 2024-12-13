@@ -1,0 +1,4 @@
+{
+  "name": "pnpm-repro",
+  "packageManager": "pnpm@9.15.0"
+}
